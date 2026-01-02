@@ -176,6 +176,7 @@ if st.session_state.logged_in:
 
 No ratings. No numbers. No bias.  
 Just one simple question:
+Which one of the two looks better?
 """)
 
         now = datetime.now()
